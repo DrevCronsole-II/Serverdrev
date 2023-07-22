@@ -1,1 +1,1 @@
-wget https://www.dropbox.com/s/r7wtd6ufishobxx/server.zip?dl=0
+wget https://www.dropbox.com/s/r7wtd6ufishobxx/server.zip
